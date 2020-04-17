@@ -1,4 +1,7 @@
-### Whm
+# DeviceManager
+Device manager for Windows
+
+.### Whm
 windows hardware manager
 
 ### About the project: 
@@ -9,7 +12,10 @@ windows hardware manager
 
 - After installing dependecies, run the UnitTest to check if the system is getting necessary data from env file or your environment server.
 
-Will be upgraded to web
+-Requirements
+- PyQt5
+- devcon.exe - to run the code that enable and disable hardware
+
 ```
 
 ### Install dependencies:  
@@ -28,6 +34,17 @@ py -m virtualenv venv
 pip install -r requirements.txt
 
 - run the code
+
+
+```
+### Features:  
+
+```sh
+
+- get all device information
+- find devices by name
+- enable devices
+- disable devices
 
 
 ```
