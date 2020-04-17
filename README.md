@@ -1,7 +1,7 @@
 # DeviceManager
 Device manager for Windows
 
-.### Whm
+### Whm
 windows hardware manager
 
 ### About the project: 
